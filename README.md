@@ -62,11 +62,11 @@
 		3.13.1 Project Management Plan Components</br>
 		3.13.2 Project Documents Examples</br>
 		3.13.3 Project Documents Updates</br>
-	3.14 Plan Quality Management
-		3.14.1 Project Management Plan Components
-		3.14.2 Project Documents Examples
-		3.14.3 Project Management Plan Updates
-		3.14.4 Project Documents Updates
+	3.14 Plan Quality Management</br>
+		3.14.1 Project Management Plan Components</br>
+		3.14.2 Project Documents Examples</br>
+		3.14.3 Project Management Plan Updates</br>
+		3.14.4 Project Documents Updates</br>
 	3.15 Plan Resource Management</br>
 		3.15.1 Project Management Plan Components</br>
 		3.15.2 Project Documents</br>
@@ -181,11 +181,11 @@
 		5.5.2 Project Document Examples</br>
 		5.5.3 Project Management Plan Updates</br>
 		5.5.4 Project Documents Updates</br>
-	5.6 Control Costs
-		5.6.1 Project Management Plan Components
-		5.6.2 Project Document Examples
-		5.6.3 Project Management Plan Updates
-		5.6.4 Project Documents Updates
+	5.6 Control Costs</br>
+		5.6.1 Project Management Plan Components</br>
+		5.6.2 Project Document Examples</br>
+		5.6.3 Project Management Plan Updates</br>
+		5.6.4 Project Documents Updates</br>
 	5.7 Control Quality</br>
 		5.7.1 Project Management Plan Components</br>
 		5.7.2 Project Document Examples</br>
