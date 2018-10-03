@@ -1,9 +1,9 @@
 # PMBOK/PT2/The Standards for Project Management
 
 1. INTRODUCTION</br>
-	1.1 Projects and Project Management
-	1.2 Relationships Among Portfolios, Programs, and Projects
-	1.3 Linking Organizational Governance and Project Governance
+	1.1 Projects and Project Management</br>
+	1.2 Relationships Among Portfolios, Programs, and Projects</br>
+	1.3 Linking Organizational Governance and Project Governance</br>
 	1.4 Project Success and Benefits Management
 	1.5 The Project Life Cycle
 	1.6 Project Stakeholders
