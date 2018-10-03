@@ -12,14 +12,14 @@
 	1.9 Project Management Process Groups</br>
 	1.10 Enterprise Environmental Factors and Organizational Process Assets</br>
 	1.11 Tailoring and Project Artifacts</br>
-2. INITIATING PROCESS GROUP</br>
+<strong>2. INITIATING PROCESS GROUP</strong></br>
 	2.1 Develop Project Charter</br>
 	2.2 Identify Stakeholders</br>
 		2.2.1 Project Management Plan Components</br>
 		2.2.2 Project Document Examples</br>
 		2.2.3 Project Management Plan Updates</br>
 		2.2.4 Project Documents Updates</br>
-3. PLANNING PROCESS GROUP</br>
+<strong>3. PLANNING PROCESS GROUP</strong></br>
 	3.1 Develop Project Management Plan</br>
 	3.2 Plan Scope Management</br>
 		3.2.1 Project Management Plan Components</br>
@@ -107,7 +107,7 @@
 	3.24 Plan Stakeholder Engagement</br>
 		3.24.1 Project Management Plan Components</br>
 		3.24.2 Project Documents Examples</br>
-4. EXECUTIVE PROCESS GROUP</br>
+<strong>4. EXECUTIVE PROCESS GROUP</strong></br>
 	4.1 Direct and Manage Project Work</br>
 		4.1.1 Project Management Plan Components</br>
 		4.1.2 Project Documents Examples</br>
@@ -156,7 +156,7 @@
 		4.10.2 Project Document Examples</br>
 		4.10.3 Project Management Plan Updates</br>
 		4.10.4 Project Documents Updates</br>
-5. MONITORING AND CONTROLLING PROCESS GROUP</br>
+<strong>5. MONITORING AND CONTROLLING PROCESS GROUP</strong></br>
 	5.1 Monitor and Control Project Work</br>
   		5.1.1 Project Management Plan Components</br>
 		5.1.2 Project Document Examples</br>
@@ -216,7 +216,7 @@
 		5.12.2 Project Document Examples</br>
 		5.12.3 Project Management Plan Updates</br>
 		5.12.4 Project Documents Updates</br>
-6. CLOSING PROCESS GROUP</br>
+<strong>6. CLOSING PROCESS GROUP</strong></br>
 	6.1 Close Project or Phase</br>
 		6.1.1 Project Management Plan Components</br>
 		6.1.2 Project Documents Examples</br>
